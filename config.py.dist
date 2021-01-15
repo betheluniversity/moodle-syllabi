@@ -1,0 +1,6 @@
+
+URL = ''
+
+KEY = ''
+
+DOWNLOADPATH = '/path/to/download/folder/{}'

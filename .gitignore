@@ -1,3 +1,10 @@
+
+.idea/
+config.py
+
+
+# Below is Githubs Python default .gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +134,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.py
